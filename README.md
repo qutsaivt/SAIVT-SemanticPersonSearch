@@ -47,14 +47,14 @@ SAIVT-SoftBioSearch
 +-- C6-YellowWhiteSpotDress 
 +-- Calibration 
 +-- Data 
-+-- CultureColours 
-+-- Black 
-+-- Blue 
-+-- ... 
-+-- Videos 
-+-- Cam1 
-+-- Cam2 
-+-- ... 
+  +-- CultureColours 
+    +-- Black 
+    +-- Blue 
+    +-- ... 
+  +-- Videos 
+    +-- Cam1 
+    +-- Cam2 
+    +-- ... 
 +-- Halstead 2014 - Locating People in Video from Semantic Descriptions.pdf 
 +-- LICENSE.txt 
 +-- README.txt (this document) 
